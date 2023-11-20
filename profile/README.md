@@ -1,12 +1,27 @@
 ## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+We are [**Frost**](https://frostco.repl.co) . A software development team based in the United States.
+### We program:
+* Extensions
+* Games
+* Websites
+* Webapps
+* Software
+### We use these languages and frameworks:
+* Node.js / Express
+* React
+* Html/Css/Js
+* Tailwind Css
+* Python
+* C++
+* C
+* Lua
+* SQL
+* Angular
+* PHP
+* Swift
+* Redux
+* x86 Assembly
+* 8080 Assembly
+### We use:
+* Unreal Engine
+* Godot Engine
