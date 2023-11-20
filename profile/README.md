@@ -1,7 +1,6 @@
 # Frost Development
 ## Hi there 👋
 We are [**Frost**](https://frostco.repl.co) . A software development team based in the United States!
----
 ### Ongoing Projects: 
 * BringBackTwitter: A Google Extension to bring back the Twitter Logo
 * ExportPlaylist: A Google Extension to Export and Import videos to YouTube
@@ -15,6 +14,7 @@ We are [**Frost**](https://frostco.repl.co) . A software development team based 
 * LinkEV: An Advanced link shortener that allows for ip address blocking, bot prevention, and more
 * Candy3D: A 3d workstation made to be compatible with mobile devices
 * VoxelShooter: A FPS game made using Trender and socket.io
+* DestOS: A linux based operating system made for smartphones and watches that allows the desktop experience to be portable
 ---
 ### We program:
 * Extensions
