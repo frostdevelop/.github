@@ -37,7 +37,7 @@ We are [**Frost**](https://frostco.repl.co) . A software development team based 
 * Swift
 * Redux
 * x86 Assembly
-* 8080 Assembly
+* 8080/z80/ez80 Assembly
 ### We use:
 * Unreal Engine
 * Godot Engine
