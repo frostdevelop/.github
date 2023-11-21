@@ -13,6 +13,7 @@ We are [**Frost**](https://frostco.repl.co) . A software development team based 
 * TrenCE: A 3D rasterizer for the ti-84 plus CE
 * XI: AI language model for the ti-84 plus CE
 * Stylz: Css Framework with various styles [Here](https://stylz.frostco.repl.co/)
+* Rec Scene: Blender plugin with various easy setups [Here](https://github.com/frostdevelop/Recscene)
 ### Planned Projects:
 * Our Website [Here](https://github.com/frostdevelop/website)
 * Pogo: A new kind of Social Media
