@@ -3,14 +3,18 @@
 We are [**Frost**](https://frostco.repl.co) . A software development team based in the United States!
 ### Finished Projects:
 * Clapperboard: an online [Clapperboard](https://clapperboard.frostco.repl.co/) webapp!
+* Redirector: a basic search and redirector. [Here](https://re.frostco.repl.co/)
+* IFrame Maker: just a iframe maker. [Here](https://iframe.frostco.repl.co/)
+* Html Viewer: view the html of websites! [Here](https://viewhtml.frostco.repl.co/)
 ### Ongoing Projects: 
-* BringBackTwitter: A Google Extension to bring back the Twitter Logo
-* ExportPlaylist: A Google Extension to Export and Import videos to YouTube
-* Trender: A 3D rasterizer made using javascript
+* BringBackTwitter: A Google Extension to bring back the Twitter Logo [Here](https://github.com/frostdevelop/bringbacktwitter)
+* ExportPlaylist: A Google Extension to Export and Import videos to YouTube [Here](https://github.com/frostdevelop/exportplaylist)
+* Trender: A 3D rasterizer made using javascript [Here](https://trender.frostco.repl.co/)
 * TrenCE: A 3D rasterizer for the ti-84 plus CE
 * XI: AI language model for the ti-84 plus CE
+* Stylz: Css Framework with various styles [Here](https://stylz.frostco.repl.co/)
 ### Planned Projects:
-* Our Website
+* Our Website [Here](https://github.com/frostdevelop/website)
 * Pogo: A new kind of Social Media
 * ROCE: A Roblox client made for the Ti-84 plus CE
 * CubeShoot: A 3D FPS game made for the Ti-84 plus CE
@@ -25,6 +29,8 @@ We are [**Frost**](https://frostco.repl.co) . A software development team based 
 * FOCUS: A Google Extension to help you focus
 * TRay: A Raytracer lol
 * DLight: An AI lighting model to relight images
+* Survive: A Roblox game that uses procedural terrain generation to create trees and ores that can be collected and used for construction
+* AnimJS: an Animation library for Javascript animations
 ---
 ### We program:
 * Extensions
