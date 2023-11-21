@@ -1,11 +1,14 @@
 # Frost Development
 ## Hi there 👋
 We are [**Frost**](https://frostco.repl.co) . A software development team based in the United States!
+### Finished Projects:
+* Clapperboard: an online [Clapperboard](https://clapperboard.frostco.repl.co/) webapp!
 ### Ongoing Projects: 
 * BringBackTwitter: A Google Extension to bring back the Twitter Logo
 * ExportPlaylist: A Google Extension to Export and Import videos to YouTube
 * Trender: A 3D rasterizer made using javascript
 * TrenCE: A 3D rasterizer for the ti-84 plus CE
+* XI: AI language model for the ti-84 plus CE
 ### Planned Projects:
 * Our Website
 * Pogo: A new kind of Social Media
@@ -15,6 +18,13 @@ We are [**Frost**](https://frostco.repl.co) . A software development team based 
 * Candy3D: A 3d workstation made to be compatible with mobile devices
 * VoxelShooter: A FPS game made using Trender and socket.io
 * DestOS: A linux based operating system made for smartphones and watches that allows the desktop experience to be portable
+* AI Jokes: Pretty obvious
+* UnderBot: A robot that can help you reach hard to reach places
+* StockBot: A bot for trading stocks
+* 3DGraphCE: A 3D grapher for the TI-84 plus CE
+* FOCUS: A Google Extension to help you focus
+* TRay: A Raytracer lol
+* DLight: An AI lighting model to relight images
 ---
 ### We program:
 * Extensions
