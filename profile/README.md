@@ -36,6 +36,8 @@ We are [**Frost**](https://frostco.repl.co) . A software development team based 
 * DesmoSearch: Search engine for Desmos calculators
 * Motionflow: Suite for designing video effects and motion design
 * Mybot: Discord bot development, made easy with a intuitive gui, custom responses, and custom message handling.
+* ChessShooter: An online 3D raytraced fps game using webgpu and websocket.
+* Chess 2: An updated version of chess made in unreal engine
 ---
 ### We program:
 * Extensions
