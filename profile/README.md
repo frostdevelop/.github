@@ -20,7 +20,7 @@ We are [**Frost**](https://frostco.repl.co) . A software development team based 
 * ROCE: A Roblox client made for the Ti-84 plus CE
 * CubeShoot: A 3D FPS game made for the Ti-84 plus CE
 * LinkEV: An Advanced link shortener that allows for ip address blocking, bot prevention, and more
-* Candy3D: A 3d workstation made to be compatible with mobile devices
+* Candy3D: A 3d creation suite made to be compatible with mobile devices
 * VoxelShooter: A FPS game made using Trender and socket.io
 * DestOS: A linux based operating system made for smartphones and watches that allows the desktop experience to be portable
 * AI Jokes: Pretty obvious
