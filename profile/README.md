@@ -33,6 +33,9 @@ We are [**Frost**](https://frostco.repl.co) . A software development team based 
 * Survive: A Roblox game that uses procedural terrain generation to create trees and ores that can be collected and used for construction
 * AnimJS: an Animation library for Javascript animations
 * CommSearch: Search engine for Youtube Community Posts
+* DesmoSearch: Search engine for Desmos calculators
+* Motionflow: Suite for designing video effects and motion design
+* Mybot: Discord bot development, made easy with a intuitive gui, custom responses, and custom message handling.
 ---
 ### We program:
 * Extensions
