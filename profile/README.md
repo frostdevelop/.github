@@ -18,6 +18,7 @@ We are [**Frost**](https://frostco.repl.co) . A software development team based 
 * Droplet: an Open source multipurpose discord bot! [Here](https://replit.com/@frostco/DropletBot)
 ### Planned Projects:
 * Our Website [Here](https://github.com/frostdevelop/website)
+* Onyx Engine: a 3D game Engine made in collaboration with Kalion Software.
 * Pogo: A new kind of Social Media
 * ROCE: A Roblox client made for the Ti-84 plus CE
 * CubeShoot: A 3D FPS game made for the Ti-84 plus CE
