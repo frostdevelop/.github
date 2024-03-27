@@ -46,6 +46,7 @@ We are [**Frost**](https://frostco.repl.co) . A software development team based 
 * StickBones: Stickfigure bone based animation ONLINE!
 * Blinds: 2D animation suite online
 * Spill3D: Online 3D animation suite
+* Mandey: Js Fractal Viewer
 * Online chip8 emulator: yes
 * Online gameboy emulator: don't ask
 * Online brainf excecutor: just the name lol
