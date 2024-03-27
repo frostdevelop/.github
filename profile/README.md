@@ -19,7 +19,7 @@ We are [**Frost**](https://frostco.repl.co) . A software development team based 
 ### Planned Projects:
 * Our Website [Here](https://github.com/frostdevelop/website)
 * Onyx Engine: a 3D game Engine made in collaboration with Kalion Software.
-* Pogo: A new kind of Social Media
+* Pogo: A new kind of Community based Social Media
 * ROCE: A Roblox client made for the Ti-84 plus CE
 * CubeShoot: A 3D FPS game made for the Ti-84 plus CE
 * LinkEV: An Advanced link shortener that allows for ip address blocking, bot prevention, and more
@@ -30,8 +30,8 @@ We are [**Frost**](https://frostco.repl.co) . A software development team based 
 * UnderBot: A robot that can help you reach hard to reach places
 * StockBot: A bot for trading stocks
 * 3DGraphCE: A 3D grapher for the TI-84 plus CE
-* FOCUS: A Google Extension to help you focus
-* TRay: A Raytracer lol
+* FOCUS: A Google Extension to help you focus by blocking websites with a message
+* Lantern: A Raytracer lol
 * DLight: An AI lighting model to relight images
 * Survive: A Roblox game that uses procedural terrain generation to create trees and ores that can be collected and used for construction
 * AnimJS: an Animation library for Javascript animations
@@ -41,6 +41,16 @@ We are [**Frost**](https://frostco.repl.co) . A software development team based 
 * Mybot: Discord bot development, made easy with a intuitive gui, custom responses, and custom message handling.
 * ChessShooter: An online 3D raytraced fps game using webgpu and websocket.
 * Chess 2: An updated version of chess made in unreal engine
+* Evergreen: Online websocket based pm and chatroom with zero storage (browser cache is where they are stored but the contents can be exported).
+* Clar: Queue application for task management.
+* StickBones: Stickfigure bone based animation ONLINE!
+* Blinds: 2D animation suite online
+* Spill3D: Online 3D animation suite
+* Online chip8 emulator: yes
+* Online gameboy emulator: don't ask
+* Online brainf excecutor: just the name lol
+* Ordered: FPS game made with only websocket and webgl.
+* Complement: Open-source online logic simulator.
 ---
 ### We program:
 * Extensions
