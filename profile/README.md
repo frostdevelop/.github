@@ -49,8 +49,20 @@ We are [**Frost**](https://frostco.repl.co) . A software development team based 
 * Online chip8 emulator: yes
 * Online gameboy emulator: don't ask
 * Online brainf excecutor: just the name lol
+* LATER: Online web builder made for ease of use with plugins supported
 * Ordered: FPS game made with only websocket and webgl.
 * Complement: Open-source online logic simulator.
+* Ignite Engine: Browser Engine made in c++
+* Untitled Voxels: Online voxel engine
+* OpenEducation: Metaverse-like community based game made with learning in mind
+* Rix: Onlind game platform made for browasers
+* Tali: Balance between readability and swiftness OOP language
+* Haste: Block based programming language with library support that is interpreted into javascript code.
+* Bulb: Image fileformat using a different encoding
+* BeamSH: Shell based on customization to the terminal
+* Ter2D: 2D game engine for the console
+* TerUI: Gui based interaction in the console
+* Skies: Story game engine for js
 ---
 ### We program:
 * Extensions
