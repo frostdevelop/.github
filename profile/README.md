@@ -64,7 +64,7 @@ We are [**Frost**](https://frostco.repl.co) . A software development team based 
 * Ter2D: 2D game engine for the console
 * TerUI: Gui based interaction in the console
 * Skies: Story game engine for js
-* Glauss: Social media based on Uniquness and Categories with no algorithm
+* Glauss: Social media based on Uniquness, Similar things, and Categories with no algorithm
 ---
 ### We program:
 * Extensions
