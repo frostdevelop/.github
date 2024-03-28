@@ -49,6 +49,7 @@ We are [**Frost**](https://frostco.repl.co) . A software development team based 
 * Mandey: Js Fractal Viewer
 * Online chip8 emulator: yes
 * Online gameboy emulator: don't ask
+* Online NES emulator: okauy I like emulators
 * Online brainf excecutor: just the name lol
 * LATER: Online web builder made for ease of use with plugins supported
 * Ordered: FPS game made with only websocket and webgl.
