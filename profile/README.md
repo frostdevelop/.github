@@ -66,6 +66,7 @@ We are [**Frost**](https://frostco.repl.co) . A software development team based 
 * TerUI: Gui based interaction in the console
 * Skies: Story game engine for js
 * Glauss: Social media based on Uniquness, Similar things, and Categories with no algorithm
+* ConjureBuddy: a next-gen AI Tutor 
 ---
 ### We program:
 * Extensions
