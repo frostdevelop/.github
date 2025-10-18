@@ -16,6 +16,7 @@ We are [**Frost**](https://frostco.repl.co) . A software development team based 
 * Stylz: Css Framework with various styles [Here](https://stylz.frostco.repl.co/)
 * Rec Scene: Blender plugin with various easy setups [Here](https://github.com/frostdevelop/Recscene)
 * Droplet: an Open source multipurpose discord bot! [Here](https://replit.com/@frostco/DropletBot)
+* Mozart: a next-gen AI Tutor [Here](https://github.com/frostdevelop/mozartAI) 
 ### Planned Projects:
 * Our Website [Here](https://github.com/frostdevelop/website)
 * Onyx Engine: a 3D game Engine made in collaboration with Kalion Software.
@@ -66,7 +67,6 @@ We are [**Frost**](https://frostco.repl.co) . A software development team based 
 * TerUI: Gui based interaction in the console
 * Skies: Story game engine for js
 * Glauss: Social media based on Uniquness, Similar things, and Categories with no algorithm
-* ConjureBuddy: a next-gen AI Tutor 
 ---
 ### We program:
 * Extensions
