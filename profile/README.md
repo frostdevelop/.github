@@ -1,6 +1,6 @@
-# Frost Development
+# Frostbyte
 ## Hi there 👋
-We are [**Frost**](https://frostco.repl.co) . A software development team based in the United States!
+We are [**Frostbyte**](https://frostco.repl.co) . A software development team based in the United States!
 ### Finished Projects:
 * Clapperboard: an online [Clapperboard](https://clapperboard.frostco.repl.co/) webapp!
 * Redirector: a basic search and redirector. [Here](https://re.frostco.repl.co/)
